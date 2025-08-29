@@ -16,4 +16,4 @@ Deliver SQL based analytics to deliver insightful results :
 **Sales Trends**
 
 ** About Me **
-I'm and IT proffessional interested in learning and dealing with petabytes of data and become a better Data Engineer through continous learning.
+I'm an IT proffessional interested in learning and dealing with petabytes of data and become a better Data Engineer through continous learning.
